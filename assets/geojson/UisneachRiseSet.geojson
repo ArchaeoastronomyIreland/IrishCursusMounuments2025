@@ -1,0 +1,2980 @@
+--- No Bearing Marker (Grey) (1 features) ---
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hill-of-uisneach lat/lon 53.490266,-7.5625687",
+        "sym": "",
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#808080",
+          "fillColor": "#808080"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.562569,
+          53.490266
+        ]
+      }
+    }
+  ]
+}
+
+--- Moon Markers (Blue) (28 features) ---
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEMinusI Bottom 20 Bearing 145.523681622303 Elevation -0.249196665495774 lat/lon 53.3316666666667,-7.38027777777778",
+        "sym": "",
+        "bearing": 145.523681622303,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.380278,
+          53.331667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEMinusI Centre 21 Bearing 144.859893036508 Elevation -0.24853615528037 lat/lon 53.3319444444444,-7.37583333333333",
+        "sym": "",
+        "bearing": 144.859893036508,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.375833,
+          53.331944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEMinusI Centre 22 Bearing 144.839783953551 Elevation -0.25563512878743 lat/lon 53.3319444444444,-7.37583333333333",
+        "sym": "",
+        "bearing": 144.839783953551,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.375833,
+          53.331944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEMinusI Centre 23 Bearing 144.833081330655 Elevation -0.25800250353046 lat/lon 53.3319444444444,-7.37583333333333",
+        "sym": "",
+        "bearing": 144.833081330655,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.375833,
+          53.331944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEMinusI Top 24 Bearing 144.13438134919 Elevation -0.273312516131012 lat/lon 53.2775,-7.30555555555556",
+        "sym": "",
+        "bearing": 144.13438134919,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.305556,
+          53.2775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEMinusI Top 25 Bearing 215.557148195039 Elevation -0.16300264241689 lat/lon 53.4369444444444,-7.62666666666667",
+        "sym": "",
+        "bearing": 215.557148195039,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.626667,
+          53.436944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEMinusI Centre 26 Bearing 215.046240493595 Elevation -0.215467155695793 lat/lon 53.4363888888889,-7.62611111111111",
+        "sym": "",
+        "bearing": 215.046240493595,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.626111,
+          53.436389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEMinusI Bottom 27 Bearing 214.523236686474 Elevation -0.265494921947799 lat/lon 53.4358333333333,-7.62555555555556",
+        "sym": "",
+        "bearing": 214.523236686474,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.625556,
+          53.435833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEPlusI Bottom 28 Bearing 123.714940724126 Elevation -0.0471325992664486 lat/lon 53.0258333333333,-6.41861111111111",
+        "sym": "",
+        "bearing": 123.714940724126,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.418611,
+          53.025833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEPlusI Centre 29 Bearing 123.236754337441 Elevation -0.0392198539695925 lat/lon 53.0302777777778,-6.40916666666667",
+        "sym": "",
+        "bearing": 123.236754337441,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.409167,
+          53.030278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEPlusI Top 30 Bearing 122.583530940235 Elevation -0.122523866391727 lat/lon 53.0391666666667,-6.40333333333333",
+        "sym": "",
+        "bearing": 122.583530940235,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.403333,
+          53.039167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEPlusI Top 31 Bearing 122.563406062845 Elevation -0.132908361242804 lat/lon 53.0388888888889,-6.40222222222222",
+        "sym": "",
+        "bearing": 122.563406062845,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.402222,
+          53.038889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEPlusI Top 32 Bearing 122.563406062845 Elevation -0.132908361242804 lat/lon 53.0391666666667,-6.40222222222222",
+        "sym": "",
+        "bearing": 122.563406062845,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.402222,
+          53.039167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEPlusI Top 33 Bearing 237.577418657104 Elevation -0.2056505332611 lat/lon 53.0902777777778,-8.6",
+        "sym": "",
+        "bearing": 237.577418657104,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6,
+          53.090278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEPlusI Centre 34 Bearing 237.152297340498 Elevation -0.238988032847175 lat/lon 53.0822222222222,-8.60361111111111",
+        "sym": "",
+        "bearing": 237.152297340498,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.603611,
+          53.082222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonMinusEPlusI Bottom 35 Bearing 236.707599799491 Elevation -0.262974723299344 lat/lon 53.09,-8.56722222222222",
+        "sym": "",
+        "bearing": 236.707599799491,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.567222,
+          53.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonPlusEMinusI Bottom 36 Bearing 57.9324517151256 Elevation -0.232936524631054 lat/lon 53.5933333333333,-7.28472222222222",
+        "sym": "",
+        "bearing": 57.9324517151256,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.284722,
+          53.593333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonPlusEMinusI Centre 37 Bearing 57.4804640376162 Elevation -0.214323595442103 lat/lon 53.6180555555556,-7.22388888888889",
+        "sym": "",
+        "bearing": 57.4804640376162,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.223889,
+          53.618056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonPlusEMinusI Top 38 Bearing 56.9888574958502 Elevation -0.215318116196857 lat/lon 53.5944444444444,-7.29194444444444",
+        "sym": "",
+        "bearing": 56.9888574958502,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.291944,
+          53.594444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonPlusEMinusI Top 39 Bearing 303.02452789437 Elevation -0.222206825455111 lat/lon 53.6966666666667,-8.10194444444445",
+        "sym": "",
+        "bearing": 303.02452789437,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.101944,
+          53.696667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonPlusEMinusI Centre 40 Bearing 302.566388321997 Elevation -0.238565864562274 lat/lon 53.6936111111111,-8.10333333333333",
+        "sym": "",
+        "bearing": 302.566388321997,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.103333,
+          53.693611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonPlusEMinusI Bottom 41 Bearing 302.127798622563 Elevation -0.264271754877605 lat/lon 53.6908333333333,-8.10472222222222",
+        "sym": "",
+        "bearing": 302.127798622563,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.104722,
+          53.690833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonPlusEPlusI Bottom 42 Bearing 36.2338755011526 Elevation -0.216478510473972 lat/lon 53.7313888888889,-7.26361111111111",
+        "sym": "",
+        "bearing": 36.2338755011526,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.263611,
+          53.731389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonPlusEPlusI Centre 43 Bearing 35.6355993629526 Elevation -0.198158162297734 lat/lon 53.7380555555556,-7.26194444444444",
+        "sym": "",
+        "bearing": 35.6355993629526,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.261944,
+          53.738056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonPlusEPlusI Top 44 Bearing 34.9985667048806 Elevation -0.190961396700496 lat/lon 53.7402777777778,-7.26638888888889",
+        "sym": "",
+        "bearing": 34.9985667048806,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.266389,
+          53.740278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonPlusEPlusI Top 45 Bearing 325.068319968448 Elevation -0.214498196688318 lat/lon 53.6583333333333,-7.76055555555556",
+        "sym": "",
+        "bearing": 325.068319968448,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.760556,
+          53.658333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonPlusEPlusI Centre 46 Bearing 324.458057445776 Elevation -0.231624886010841 lat/lon 53.6561111111111,-7.7625",
+        "sym": "",
+        "bearing": 324.458057445776,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7625,
+          53.656111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MoonPlusEPlusI Bottom 47 Bearing 323.879883477128 Elevation -0.257711532522167 lat/lon 53.655,-7.76555555555556",
+        "sym": "",
+        "bearing": 323.879883477128,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#0000FF",
+          "fillColor": "#0000FF"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.765556,
+          53.655
+        ]
+      }
+    }
+  ]
+}
+
+--- Solstice Markers (12 features) ---
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WinterSolsticeSun Bottom 0 Bearing 132.284924657014 Elevation -0.0643784338655551 lat/lon 52.9497222222222,-6.58305555555556",
+        "sym": "",
+        "bearing": 132.284924657014,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#FF4500",
+          "fillColor": "#FF4500"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.583056,
+          52.949722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WinterSolsticeSun Centre 1 Bearing 131.589734446291 Elevation -0.130849809927701 lat/lon 52.9516666666667,-6.56277777777778",
+        "sym": "",
+        "bearing": 131.589734446291,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#FF4500",
+          "fillColor": "#FF4500"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.562778,
+          52.951667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WinterSolsticeSun Top 2 Bearing 131.06012740786 Elevation -0.123101823436926 lat/lon 53.3447222222222,-7.28305555555556",
+        "sym": "",
+        "bearing": 131.06012740786,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#FF4500",
+          "fillColor": "#FF4500"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.283056,
+          53.344722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WinterSolsticeSun Top 3 Bearing 229.205992596436 Elevation -0.247227871482422 lat/lon 52.9838888888889,-8.53",
+        "sym": "",
+        "bearing": 229.205992596436,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#FF4500",
+          "fillColor": "#FF4500"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.53,
+          52.983889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WinterSolsticeSun Centre 4 Bearing 228.609857206742 Elevation -0.223137621814143 lat/lon 52.9916666666667,-8.49583333333333",
+        "sym": "",
+        "bearing": 228.609857206742,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#FF4500",
+          "fillColor": "#FF4500"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.495833,
+          52.991667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WinterSolsticeSun Bottom 5 Bearing 228.081075064434 Elevation -0.232008340365912 lat/lon 52.9652777777778,-8.52666666666667",
+        "sym": "",
+        "bearing": 228.081075064434,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#FF4500",
+          "fillColor": "#FF4500"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.526667,
+          52.965278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SummerSolsticeSun Bottom 6 Bearing 46.4824818333663 Elevation -0.0479180482443829 lat/lon 53.7438888888889,-7.10972222222222",
+        "sym": "",
+        "bearing": 46.4824818333663,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#FF4500",
+          "fillColor": "#FF4500"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.109722,
+          53.743889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SummerSolsticeSun Centre 7 Bearing 45.8925899827457 Elevation -0.057321537024257 lat/lon 53.7405555555556,-7.125",
+        "sym": "",
+        "bearing": 45.8925899827457,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#FF4500",
+          "fillColor": "#FF4500"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.125,
+          53.740556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SummerSolsticeSun Top 8 Bearing 45.2429693145133 Elevation -0.0905445703039812 lat/lon 53.7405555555556,-7.13472222222222",
+        "sym": "",
+        "bearing": 45.2429693145133,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#FF4500",
+          "fillColor": "#FF4500"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.134722,
+          53.740556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SummerSolsticeSun Top 9 Bearing 315.161787059946 Elevation -0.264945592015408 lat/lon 53.7761111111111,-8.04472222222222",
+        "sym": "",
+        "bearing": 315.161787059946,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#FF4500",
+          "fillColor": "#FF4500"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.044722,
+          53.776111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SummerSolsticeSun Centre 10 Bearing 314.525492223677 Elevation -0.239556242059397 lat/lon 53.7997222222222,-8.09722222222222",
+        "sym": "",
+        "bearing": 314.525492223677,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#FF4500",
+          "fillColor": "#FF4500"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.097222,
+          53.799722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SummerSolsticeSun Bottom 11 Bearing 314.009784920091 Elevation -0.264520492746177 lat/lon 53.7986111111111,-8.10472222222222",
+        "sym": "",
+        "bearing": 314.009784920091,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#FF4500",
+          "fillColor": "#FF4500"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.104722,
+          53.798611
+        ]
+      }
+    }
+  ]
+}
+
+--- Equinox Markers (8 features) ---
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EquinoxSun Bottom 12 Bearing 89.2611023730077 Elevation -0.255951021500176 lat/lon 53.4927777777778,-7.17888888888889",
+        "sym": "",
+        "bearing": 89.2611023730077,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#DAA520",
+          "fillColor": "#DAA520"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.178889,
+          53.492778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EquinoxSun Centre 13 Bearing 88.8009683882935 Elevation -0.263168716801363 lat/lon 53.4930555555556,-7.33222222222222",
+        "sym": "",
+        "bearing": 88.8009683882935,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#DAA520",
+          "fillColor": "#DAA520"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.332222,
+          53.493056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EquinoxSun Top 14 Bearing 88.3341320240258 Elevation -0.274450932800943 lat/lon 53.4947222222222,-7.29833333333333",
+        "sym": "",
+        "bearing": 88.3341320240258,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#DAA520",
+          "fillColor": "#DAA520"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.298333,
+          53.494722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EquinoxSun Top 15 Bearing 271.652467555533 Elevation -0.266230243374531 lat/lon 53.4991666666667,-8.15722222222222",
+        "sym": "",
+        "bearing": 271.652467555533,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#DAA520",
+          "fillColor": "#DAA520"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.157222,
+          53.499167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EquinoxSun Centre 16 Bearing 271.212430791702 Elevation -0.271390312171165 lat/lon 53.4963888888889,-8.15666666666667",
+        "sym": "",
+        "bearing": 271.212430791702,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#DAA520",
+          "fillColor": "#DAA520"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.156667,
+          53.496389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EquinoxSun Bottom 17 Bearing 270.712101958907 Elevation -0.239513503666883 lat/lon 53.4930555555556,-8.07527777777778",
+        "sym": "",
+        "bearing": 270.712101958907,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#DAA520",
+          "fillColor": "#DAA520"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.075278,
+          53.493056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EquinoxSun Bottom 18 Bearing 270.712101958907 Elevation -0.239513503666883 lat/lon 53.4930555555556,-8.07277777777778",
+        "sym": "",
+        "bearing": 270.712101958907,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#DAA520",
+          "fillColor": "#DAA520"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.072778,
+          53.493056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EquinoxSun Bottom 19 Bearing 270.6987042094 Elevation -0.231296757393817 lat/lon 53.4930555555556,-8.07277777777778",
+        "sym": "",
+        "bearing": 270.6987042094,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#DAA520",
+          "fillColor": "#DAA520"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.072778,
+          53.493056
+        ]
+      }
+    }
+  ]
+}
+
+--- Cross Quarter Markers (14 features) ---
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun1 Bottom 48 Bearing 59.9687590306204 Elevation -0.207950357305408 lat/lon 53.6138888888889,-7.20083333333333",
+        "sym": "",
+        "bearing": 59.9687590306204,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.200833,
+          53.613889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun1 Centre 49 Bearing 59.4552786502495 Elevation -0.216577667315194 lat/lon 53.6102777777778,-7.21888888888889",
+        "sym": "",
+        "bearing": 59.4552786502495,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.218889,
+          53.610278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun1 Top 50 Bearing 59.0096420154881 Elevation -0.18869107543069 lat/lon 53.6113888888889,-7.22166666666667",
+        "sym": "",
+        "bearing": 59.0096420154881,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.221667,
+          53.611389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun1 Top 51 Bearing 301.15201872027 Elevation -0.273152689676845 lat/lon 53.7686111111111,-8.34833333333333",
+        "sym": "",
+        "bearing": 301.15201872027,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.348333,
+          53.768611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun1 Centre 52 Bearing 300.652498706981 Elevation -0.273175533885979 lat/lon 53.7186111111111,-8.21805555555556",
+        "sym": "",
+        "bearing": 300.652498706981,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.218056,
+          53.718611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun1 Bottom 53 Bearing 300.152475567177 Elevation -0.271947800789003 lat/lon 53.7633333333333,-8.36472222222222",
+        "sym": "",
+        "bearing": 300.152475567177,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.364722,
+          53.763333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun2 Bottom 54 Bearing 118.998898440877 Elevation 0.0767488170214959 lat/lon 53.1016666666667,-6.41111111111111",
+        "sym": "",
+        "bearing": 118.998898440877,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.411111,
+          53.101667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun2 Centre 55 Bearing 118.466082060262 Elevation 0.0528686287671122 lat/lon 53.1011111111111,-6.385",
+        "sym": "",
+        "bearing": 118.466082060262,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.385,
+          53.101111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun2 Centre 56 Bearing 118.452728254346 Elevation 0.045610187582802 lat/lon 53.1011111111111,-6.385",
+        "sym": "",
+        "bearing": 118.452728254346,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.385,
+          53.101111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun2 Centre 57 Bearing 118.446051614165 Elevation 0.0419814691115595 lat/lon 53.1016666666667,-6.38527777777778",
+        "sym": "",
+        "bearing": 118.446051614165,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.385278,
+          53.101667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun2 Top 58 Bearing 117.852683375212 Elevation -0.0160413196856915 lat/lon 53.1086111111111,-6.37722222222222",
+        "sym": "",
+        "bearing": 117.852683375212,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.377222,
+          53.108611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun2 Top 59 Bearing 242.620751180948 Elevation -0.274576358355717 lat/lon 53.4119444444444,-7.81583333333333",
+        "sym": "",
+        "bearing": 242.620751180948,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.815833,
+          53.411944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun2 Centre 60 Bearing 242.120829591935 Elevation -0.266144792714898 lat/lon 53.1327777777778,-8.67333333333333",
+        "sym": "",
+        "bearing": 242.120829591935,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.673333,
+          53.132778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossQuarterSun2 Bottom 61 Bearing 241.588078082328 Elevation -0.240782342180376 lat/lon 53.1327777777778,-8.64944444444444",
+        "sym": "",
+        "bearing": 241.588078082328,
+        "customStyle": {
+          "radius": 5,
+          "weight": 0.5,
+          "opacity": 1,
+          "fillOpacity": 1,
+          "color": "#008000",
+          "fillColor": "#008000"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.649444,
+          53.132778
+        ]
+      }
+    }
+  ]
+}
+
+No Other Points (Default Style) found in GPX from hill-of-uisneach__3750_120_sunmoon.gpx.
+
+--- Connecting Lines to No Bearing Marker (62 features) ---
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to WinterSolsticeSun Bottom 0 Bearing 132.284924657014 Elevation -0.0643784338655551 lat/lon 52.9497222222222,-6.58305555555556",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -6.583056,
+            52.949722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to WinterSolsticeSun Centre 1 Bearing 131.589734446291 Elevation -0.130849809927701 lat/lon 52.9516666666667,-6.56277777777778",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -6.562778,
+            52.951667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to WinterSolsticeSun Top 2 Bearing 131.06012740786 Elevation -0.123101823436926 lat/lon 53.3447222222222,-7.28305555555556",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.283056,
+            53.344722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to WinterSolsticeSun Top 3 Bearing 229.205992596436 Elevation -0.247227871482422 lat/lon 52.9838888888889,-8.53",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.53,
+            52.983889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to WinterSolsticeSun Centre 4 Bearing 228.609857206742 Elevation -0.223137621814143 lat/lon 52.9916666666667,-8.49583333333333",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.495833,
+            52.991667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to WinterSolsticeSun Bottom 5 Bearing 228.081075064434 Elevation -0.232008340365912 lat/lon 52.9652777777778,-8.52666666666667",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.526667,
+            52.965278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to SummerSolsticeSun Bottom 6 Bearing 46.4824818333663 Elevation -0.0479180482443829 lat/lon 53.7438888888889,-7.10972222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.109722,
+            53.743889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to SummerSolsticeSun Centre 7 Bearing 45.8925899827457 Elevation -0.057321537024257 lat/lon 53.7405555555556,-7.125",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.125,
+            53.740556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to SummerSolsticeSun Top 8 Bearing 45.2429693145133 Elevation -0.0905445703039812 lat/lon 53.7405555555556,-7.13472222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.134722,
+            53.740556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to SummerSolsticeSun Top 9 Bearing 315.161787059946 Elevation -0.264945592015408 lat/lon 53.7761111111111,-8.04472222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.044722,
+            53.776111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to SummerSolsticeSun Centre 10 Bearing 314.525492223677 Elevation -0.239556242059397 lat/lon 53.7997222222222,-8.09722222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.097222,
+            53.799722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to SummerSolsticeSun Bottom 11 Bearing 314.009784920091 Elevation -0.264520492746177 lat/lon 53.7986111111111,-8.10472222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.104722,
+            53.798611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to EquinoxSun Bottom 12 Bearing 89.2611023730077 Elevation -0.255951021500176 lat/lon 53.4927777777778,-7.17888888888889",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.178889,
+            53.492778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to EquinoxSun Centre 13 Bearing 88.8009683882935 Elevation -0.263168716801363 lat/lon 53.4930555555556,-7.33222222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.332222,
+            53.493056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to EquinoxSun Top 14 Bearing 88.3341320240258 Elevation -0.274450932800943 lat/lon 53.4947222222222,-7.29833333333333",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.298333,
+            53.494722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to EquinoxSun Top 15 Bearing 271.652467555533 Elevation -0.266230243374531 lat/lon 53.4991666666667,-8.15722222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.157222,
+            53.499167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to EquinoxSun Centre 16 Bearing 271.212430791702 Elevation -0.271390312171165 lat/lon 53.4963888888889,-8.15666666666667",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.156667,
+            53.496389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to EquinoxSun Bottom 17 Bearing 270.712101958907 Elevation -0.239513503666883 lat/lon 53.4930555555556,-8.07527777777778",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.075278,
+            53.493056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to EquinoxSun Bottom 18 Bearing 270.712101958907 Elevation -0.239513503666883 lat/lon 53.4930555555556,-8.07277777777778",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.072778,
+            53.493056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to EquinoxSun Bottom 19 Bearing 270.6987042094 Elevation -0.231296757393817 lat/lon 53.4930555555556,-8.07277777777778",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.072778,
+            53.493056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEMinusI Bottom 20 Bearing 145.523681622303 Elevation -0.249196665495774 lat/lon 53.3316666666667,-7.38027777777778",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.380278,
+            53.331667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEMinusI Centre 21 Bearing 144.859893036508 Elevation -0.24853615528037 lat/lon 53.3319444444444,-7.37583333333333",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.375833,
+            53.331944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEMinusI Centre 22 Bearing 144.839783953551 Elevation -0.25563512878743 lat/lon 53.3319444444444,-7.37583333333333",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.375833,
+            53.331944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEMinusI Centre 23 Bearing 144.833081330655 Elevation -0.25800250353046 lat/lon 53.3319444444444,-7.37583333333333",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.375833,
+            53.331944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEMinusI Top 24 Bearing 144.13438134919 Elevation -0.273312516131012 lat/lon 53.2775,-7.30555555555556",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.305556,
+            53.2775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEMinusI Top 25 Bearing 215.557148195039 Elevation -0.16300264241689 lat/lon 53.4369444444444,-7.62666666666667",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.626667,
+            53.436944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEMinusI Centre 26 Bearing 215.046240493595 Elevation -0.215467155695793 lat/lon 53.4363888888889,-7.62611111111111",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.626111,
+            53.436389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEMinusI Bottom 27 Bearing 214.523236686474 Elevation -0.265494921947799 lat/lon 53.4358333333333,-7.62555555555556",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.625556,
+            53.435833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEPlusI Bottom 28 Bearing 123.714940724126 Elevation -0.0471325992664486 lat/lon 53.0258333333333,-6.41861111111111",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -6.418611,
+            53.025833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEPlusI Centre 29 Bearing 123.236754337441 Elevation -0.0392198539695925 lat/lon 53.0302777777778,-6.40916666666667",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -6.409167,
+            53.030278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEPlusI Top 30 Bearing 122.583530940235 Elevation -0.122523866391727 lat/lon 53.0391666666667,-6.40333333333333",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -6.403333,
+            53.039167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEPlusI Top 31 Bearing 122.563406062845 Elevation -0.132908361242804 lat/lon 53.0388888888889,-6.40222222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -6.402222,
+            53.038889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEPlusI Top 32 Bearing 122.563406062845 Elevation -0.132908361242804 lat/lon 53.0391666666667,-6.40222222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -6.402222,
+            53.039167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEPlusI Top 33 Bearing 237.577418657104 Elevation -0.2056505332611 lat/lon 53.0902777777778,-8.6",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.6,
+            53.090278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEPlusI Centre 34 Bearing 237.152297340498 Elevation -0.238988032847175 lat/lon 53.0822222222222,-8.60361111111111",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.603611,
+            53.082222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonMinusEPlusI Bottom 35 Bearing 236.707599799491 Elevation -0.262974723299344 lat/lon 53.09,-8.56722222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.567222,
+            53.09
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonPlusEMinusI Bottom 36 Bearing 57.9324517151256 Elevation -0.232936524631054 lat/lon 53.5933333333333,-7.28472222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.284722,
+            53.593333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonPlusEMinusI Centre 37 Bearing 57.4804640376162 Elevation -0.214323595442103 lat/lon 53.6180555555556,-7.22388888888889",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.223889,
+            53.618056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonPlusEMinusI Top 38 Bearing 56.9888574958502 Elevation -0.215318116196857 lat/lon 53.5944444444444,-7.29194444444444",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.291944,
+            53.594444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonPlusEMinusI Top 39 Bearing 303.02452789437 Elevation -0.222206825455111 lat/lon 53.6966666666667,-8.10194444444445",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.101944,
+            53.696667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonPlusEMinusI Centre 40 Bearing 302.566388321997 Elevation -0.238565864562274 lat/lon 53.6936111111111,-8.10333333333333",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.103333,
+            53.693611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonPlusEMinusI Bottom 41 Bearing 302.127798622563 Elevation -0.264271754877605 lat/lon 53.6908333333333,-8.10472222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.104722,
+            53.690833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonPlusEPlusI Bottom 42 Bearing 36.2338755011526 Elevation -0.216478510473972 lat/lon 53.7313888888889,-7.26361111111111",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.263611,
+            53.731389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonPlusEPlusI Centre 43 Bearing 35.6355993629526 Elevation -0.198158162297734 lat/lon 53.7380555555556,-7.26194444444444",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.261944,
+            53.738056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonPlusEPlusI Top 44 Bearing 34.9985667048806 Elevation -0.190961396700496 lat/lon 53.7402777777778,-7.26638888888889",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.266389,
+            53.740278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonPlusEPlusI Top 45 Bearing 325.068319968448 Elevation -0.214498196688318 lat/lon 53.6583333333333,-7.76055555555556",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.760556,
+            53.658333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonPlusEPlusI Centre 46 Bearing 324.458057445776 Elevation -0.231624886010841 lat/lon 53.6561111111111,-7.7625",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.7625,
+            53.656111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to MoonPlusEPlusI Bottom 47 Bearing 323.879883477128 Elevation -0.257711532522167 lat/lon 53.655,-7.76555555555556",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.765556,
+            53.655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun1 Bottom 48 Bearing 59.9687590306204 Elevation -0.207950357305408 lat/lon 53.6138888888889,-7.20083333333333",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.200833,
+            53.613889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun1 Centre 49 Bearing 59.4552786502495 Elevation -0.216577667315194 lat/lon 53.6102777777778,-7.21888888888889",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.218889,
+            53.610278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun1 Top 50 Bearing 59.0096420154881 Elevation -0.18869107543069 lat/lon 53.6113888888889,-7.22166666666667",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.221667,
+            53.611389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun1 Top 51 Bearing 301.15201872027 Elevation -0.273152689676845 lat/lon 53.7686111111111,-8.34833333333333",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.348333,
+            53.768611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun1 Centre 52 Bearing 300.652498706981 Elevation -0.273175533885979 lat/lon 53.7186111111111,-8.21805555555556",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.218056,
+            53.718611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun1 Bottom 53 Bearing 300.152475567177 Elevation -0.271947800789003 lat/lon 53.7633333333333,-8.36472222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.364722,
+            53.763333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun2 Bottom 54 Bearing 118.998898440877 Elevation 0.0767488170214959 lat/lon 53.1016666666667,-6.41111111111111",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -6.411111,
+            53.101667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun2 Centre 55 Bearing 118.466082060262 Elevation 0.0528686287671122 lat/lon 53.1011111111111,-6.385",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -6.385,
+            53.101111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun2 Centre 56 Bearing 118.452728254346 Elevation 0.045610187582802 lat/lon 53.1011111111111,-6.385",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -6.385,
+            53.101111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun2 Centre 57 Bearing 118.446051614165 Elevation 0.0419814691115595 lat/lon 53.1016666666667,-6.38527777777778",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -6.385278,
+            53.101667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun2 Top 58 Bearing 117.852683375212 Elevation -0.0160413196856915 lat/lon 53.1086111111111,-6.37722222222222",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -6.377222,
+            53.108611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun2 Top 59 Bearing 242.620751180948 Elevation -0.274576358355717 lat/lon 53.4119444444444,-7.81583333333333",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -7.815833,
+            53.411944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun2 Centre 60 Bearing 242.120829591935 Elevation -0.266144792714898 lat/lon 53.1327777777778,-8.67333333333333",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.673333,
+            53.132778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Line from No-Bearing to CrossQuarterSun2 Bottom 61 Bearing 241.588078082328 Elevation -0.240782342180376 lat/lon 53.1327777777778,-8.64944444444444",
+        "style": {
+          "color": "#808080",
+          "weight": 0.5,
+          "dashArray": "5, 5"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.562569,
+            53.490266
+          ],
+          [
+            -8.649444,
+            53.132778
+          ]
+        ]
+      }
+    }
+  ]
+}
+
