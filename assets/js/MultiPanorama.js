@@ -1090,7 +1090,7 @@
             // Configuration for Viewer 1
             const viewer1Config = {
                 // Horizon URL for Carrowmore-SL014-209030 (Sligo, Ireland)
-                horizonUrl: 'https://www.standingstones.org/standingstonesorg/bd/sligo/viewpoint/carrowmore-sl014-209030-_/carrowmore-sl014-209030-_.zip', 
+                horizonUrl: 'https://www.standingstones.org/standingstonesorg/bd/co-westmeath/viewpoint/hill-of-uisneach_/hill-of-uisneach_.zip', 
                 initialZoom: 7.0737,
                 true0HorizonOffset: 11.90,
                 initialPanX: 0, 
