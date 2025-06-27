@@ -22,14 +22,7 @@
           53.490266
         ]
       }
-    }
-  ]
-}
-
---- Moon Markers (Blue) (28 features) ---
-{
-  "type": "FeatureCollection",
-  "features": [
+    },
     {
       "type": "Feature",
       "properties": {
@@ -673,14 +666,7 @@
           53.655
         ]
       }
-    }
-  ]
-}
-
---- Solstice Markers (12 features) ---
-{
-  "type": "FeatureCollection",
-  "features": [
+    },
     {
       "type": "Feature",
       "properties": {
@@ -956,14 +942,7 @@
           53.798611
         ]
       }
-    }
-  ]
-}
-
---- Equinox Markers (8 features) ---
-{
-  "type": "FeatureCollection",
-  "features": [
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1147,14 +1126,7 @@
           53.493056
         ]
       }
-    }
-  ]
-}
-
---- Cross Quarter Markers (14 features) ---
-{
-  "type": "FeatureCollection",
-  "features": [
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1476,16 +1448,7 @@
           53.132778
         ]
       }
-    }
-  ]
-}
-
-No Other Points (Default Style) found in GPX from hill-of-uisneach__3750_120_sunmoon.gpx.
-
---- Connecting Lines to No Bearing Marker (62 features) ---
-{
-  "type": "FeatureCollection",
-  "features": [
+    },
     {
       "type": "Feature",
       "properties": {
@@ -2976,4 +2939,3 @@ No Other Points (Default Style) found in GPX from hill-of-uisneach__3750_120_sun
     }
   ]
 }
-
